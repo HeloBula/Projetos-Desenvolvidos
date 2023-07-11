@@ -1,0 +1,103 @@
+polenta#fácil#Comida#Comida italiana#Feita de mandioca
+advérbio#médio#Palavra#É uma classe de palavra#Acompanha o verbo
+agulha#fácil#Objeto#Pode ser um instrumento médico#Usado para costurar
+paleontologia#difícil#Profissão#Estuda fósseis#Dinossauro
+paralelo#médio#Formato#Ao lado#Conceito matemático
+escorpião#fácil#Animal#Aracnídeo#Possue veneno
+porto#médio#Local#Próximo ao mar#Navios e barcos atracam
+pneumotórax#difícil#Doença#Atinge o pulmão#É tratado com auxilio de cirurgia
+panorama#médio#Substantivo#Relacionado ao modo de ver algo de cima#Observador fica no centro
+minhoca#fácil#Animal#É usado como isca para pescar#É um anelídeo
+macarronada#fácil#Comida#É italiana#Costuma-se comer isso aos domingos
+espelho#fácil#Objeto#É refletor#Os portugueses usavam como escambo
+triatlo#médio#Esporte#É uma prova composta por mais de um esporte#Participa das Olimpíadas
+damasco#médio#Fruta#É azeda#Fruta considerada seca
+rocambole#difícil#Comida#Conhecido como bolo enrolado#Pode ser salgado ou doce
+zoomorfismo#difícil#Substantivo#É relacionado à dar característica de animais para o que não é#Figura de linguagem
+tatuagem#fácil#Substantivo#Feito na pele#É realizado com agulhas
+progesterona#médio#Substantivo#É um hormônio#Presente em maior quantidade nas mulheres
+naufrágio#médio#Substantivo#Relacionado a embarcações#Titanic sofreu esse acidente
+limonada#fácil#Bebida#É feita a base de limão#Faz parte de um ditado famoso
+remo#fácil#Objeto#Utensílio usado em embarcações#Usado para movimentar a embarcação manualmente
+torrada#fácil#Comida#Feito de pão#Geralmente é servida com geléias ou manteigas
+ácidos-nucleicos#difícil#Animal#Encontrado no núcleo da célula#Componente do DNA e RNA
+borboleta#fácil#Animal#É um inseto#Sofre metamorfose
+ovos#fácil#Alimentos#É de origem animal#Possui casca
+cogumelo#fácil#Alimentos#É um fungo#Casa de sapo
+manga#fácil#Alimentos#É uma fruta#Tem fibras
+carne de vitela#difícil#Alimentos#É uma carne#Filhote
+abóbora#fácil#Alimentos#Vem de uma planta rasteira#Halloween
+abacaxi#fácil#Alimentos#É uma fruta#Possui coroa
+marmelo#difícil#Alimentos#É uma fruta#É amarelo
+tâmara#difícil#Alimentos#É uma fruta#Típica do Mediterrâneo
+lentilha#médio#Alimentos#É um grão#Usada para fazer sopa
+queijo#fácil#Alimentos#É de origem animal#Feito do leite
+nectarina#difícil#Alimentos#É uma fruta#Parecida com pêssego
+arroz#fácil#Alimentos#É um grão#Normalmente presente no prato principal brasileiro
+kiwi#médio#Alimentos#É uma fruta#Possui casca aveludada
+acelga#médio#Alimentos#É uma hortaliça#É verde
+rabanete#médio#Alimentos#É uma hortaliça#É vermelho por fora
+groselha#médio#Alimentos#É uma fruta#Produz uma bebida de mesmo nome
+tomate#fácil#Alimentos#É um fruto#Tem semente
+amêndoas#difícil#Alimentos#É uma semente#É rica em magnésio
+lebre#fácil#Animais#É um mamífero#Corre rápido
+perdiz#difícil#Animais#É uma ave#Perdigão
+tigre#fácil#Animais#É de porte grande#É carnívoro
+cabra#fácil#Animais#Produz leite#É herbívora
+cachorro#fácil#Animais#É doméstico#Melhor amigo do homem
+lagosta#médio#Animais#Crustáceo#É vermelha
+lagarto#médio#Animais#É um réptil#Tem patas
+antílope#difícil#Animais#É um mamífero#Tem chifre
+zebra#fácil#Animais#É uma mamífero#É listrada
+anêmona#difícil#Animais#É marinho#Não possue vértebra nem esqueleto
+cacatua#difícil#Animais#É uma ave#Podem ser domésticos
+bacalhau#médio#Animais#É um peixe#É salgado
+arraia#difícil#Animais#É marinho#Tem veneno
+iguana#médio#Animais#É um réptil#Vivem em árvores
+papagaio#médio#Animais#É uma ave#É verde 
+macaco#fácil#Animais#Vive em árvore#É mamífero
+carangueijo#fácil#Animais#Anda de lado#Possui casca
+sardinha#médio#Animais#É marinho#Pode ser enlatado
+panda#fácil#Animais#É uma espécie de urso#Come bambu
+gato#fácil#Animais#É doméstico#Tem sete vidas
+canguru#médio#Animais#Tem uma bolsa#Podem saltar até nove metros
+lhama#difícil#Animais#Seu pelo pode ser usuado para fazer lã#Podem cuspir nos seus alvos
+chinchila#difícil#Animais#É doméstico#É um roedor
+rato#fácil#Animais#É um roedor#Come queijo
+agricultor#médio#Profissão#Trabalha com plantação#Trabalho árduo
+motorista#fácil#Profissão#Pode transportar pessoas#Pode viajar longas distâncias
+carteiro#fácil#Profissão#Entrega encomendas#Odiado pelos cachorros
+garçonete#médio#Profissão#Normalmente usa um avental#Anota pedidos
+bombeiro#fácil#Profissão#Profissão de risco#Caminhão vermelho
+advogado#fácil#Profissão#Trabalha com leis#Acusa ou defende pessoas
+dentista#fácil#Profissão#Geralmente possui consultório#Trabalha com dentes
+carpinteiro#médio#Profissão#Trabalha com madeira#Faz móveis
+enfermeiro#fácil#Profissão#Profissional da saúde#Trabalha no hospital
+construtor#médio#Profissão#Gerencia obras#Cuida do projeto e contrução de determinado estabelecimento
+amora#fácil#Alimentos#É uma fruta#Pode ser roxa ou vermelha
+cevada#médio#Alimentos#É um cereal#Usada para fazer cerveja
+vinagre#fácil#Alimentos#É ácido#Usado para temperar salada
+aveia#médio#Alimentos#É um cereal#Rico em fibras
+ervilha#fácil#Alimentos#É uma leguminosa#É verde
+repolho#fácil#Alimentos#É um vegetal#Pode ser roxo, verde ou branco
+batata#fácil#Alimentos#É um legume#É rica em carboidrato 
+batata-doce#fácil#Alimentos#É um legume#É doce
+alcachofra#difícil#Alimentos#É uma hortaliça#É amargo
+aspargo#difícil#Alimentos#É um vegetal#É uma iguaria do mundo vegetal, por isso costuma ser caro
+toranja#difícil#Alimentos#É uma fruta cítrica#Resultado do cruzamento de duas espécies, laranja e pomelo
+espinafre#médio#Alimentos#É um vegetal#Um personagem de desenho costuma come-lo para ficar forte
+cenoura#fácil#Alimentos#É um legume#Nos desenhos, é o principal alimento dos coelhos
+pinguim#fácil#Animais#Vive em lugares frios#É muito fofo
+passageiro#médio#Substantivo#Pessoa que se desloca em algum transporte#Compraram passagem
+apogeu#difícil#Substantivo#Ponto mais alto#Referente à altura
+psiquiatra#médio#Profissão#Especialização médica#Cuida da mente humana
+leviano#médio#Adjetivo#Algo passageiro#Ancontece de forma leve/fútil
+esquizofrenia#difícil#Doença#Transtorno mental#Visto de forma pejorativa pela sociedade
+futebol#fácil#Esporte#Jogo apreciado mundialmente#Brasil é respeitado por ele
+caipirinha#médio#Bebida#Bebida de teor alcóolico#Típica do Brasil
+tesoura#fácil#Objeto#Usado para cortar# Pode possuir ponta ou não
+melancolia#difícil#Adjetivo#Estado constante de tristeza#Refere-se à algo monótona
+balão#fácil#Substantivo#Adereço usado para enfeitar festas#Enchido de ar
+alicate#médio#Objeto#Usado para cortar#Pode ser grande ou pequeno
+apêndice#médio#Orgão#Localizado no final do instestino grosso#Pode sofrer uma inflamação gravíssima
+mamadeira#fácil#Objeto#Usado para alimentar bebês#Possui um bico na tampa

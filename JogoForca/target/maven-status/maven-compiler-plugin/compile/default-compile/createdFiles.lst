@@ -1,0 +1,11 @@
+com\mycompany\jogoforca\Partida.class
+com\mycompany\jogoforca\Pontos.class
+com\mycompany\jogoforca\PontosAbstrata.class
+com\mycompany\jogoforca\PontosChance.class
+com\mycompany\jogoforca\NivelIndisponivelException.class
+com\mycompany\jogoforca\PontosDicas.class
+com\mycompany\jogoforca\Palavras.class
+com\mycompany\jogoforca\Jogo.class
+com\mycompany\jogoforca\SenhaIncorretaException.class
+com\mycompany\jogoforca\JogoForca.class
+com\mycompany\jogoforca\Usuario.class
