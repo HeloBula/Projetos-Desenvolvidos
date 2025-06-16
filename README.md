@@ -1,1 +1,1 @@
-Projetos realizados durante aprendizados
+Projetos realizados durante aprendizado
